@@ -1,0 +1,20 @@
+# GCC-GSL-GLOBES-DUNE
+- GCC Version: 13.2.0 (see `gcc --version`)
+- GSL Version: 2.7.0 (see `gsl-config --version`)
+- GLOBES Version: 3.2.18
+
+## Useful Directories
+- /usr/src/user/examples/globes (e.g., `/usr/src/user/examples/globes/example1.sh`)
+- /usr/src/user/dune (e.g., `/usr/src/user/dune/dune_globes/DUNE_GLoBES.glb`)
+
+
+
+
+# (PT-BR) GCC-GSL-GLOBES-DUNE
+- Versão do GCC: 13.2.0 (verifique com `gcc --version`)
+- Versão do GSL: 2.7.0 (verifique com `gsl-config --version`)
+- Versão do GLOBES: 3.2.18
+
+## Diretório Uteis
+- /usr/src/user/examples/globes (ex: `/usr/src/user/examples/globes/example1.sh`)
+- /usr/src/user/dune (ex: `/usr/src/user/dune/dune_globes/DUNE_GLoBES.glb`)
