@@ -1,7 +1,7 @@
 # Repo Imagem Docker GCC-GSL-GLOBES-DUNE 
 > Disponível em: [Docker Hub: EinCodes/GCC-GSL-GLOBES-DUNE](https://hub.docker.com/r/eincodes/gcc-gsl-globes-dune)
 
-[EN-US Version](/readme_english.md)
+[English Version](/readme_english.md)
 
 Receita da imagem docker para criação de containers contendo as dependências necessárias para experimentos do DUNE, feita para auxiliar alunos da UTFPR e afins.
 
