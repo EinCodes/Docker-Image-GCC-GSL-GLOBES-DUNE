@@ -1,4 +1,4 @@
-# Repositório da Imagem Docker GCC-GSL-GLOBES-DUNE 
+# Repositório Imagem Docker GCC-GSL-GLOBES-DUNE 
 > Disponível em: [Docker Hub: EinCodes/GCC-GSL-GLOBES-DUNE](https://hub.docker.com/r/eincodes/gcc-gsl-globes-dune)
 
 [EN-US Version](/readme_english.md)
